@@ -11,6 +11,12 @@ h2 {
   font-size: 40px;
   text-align: center;
 }
+h3 {
+  color: black;
+  font-family: monospace;
+  font-size: 40px;
+  text-align: left;
+}
 
 body {
   color: black;
